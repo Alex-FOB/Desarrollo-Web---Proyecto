@@ -1,0 +1,3 @@
+Landing page
+Idea: página de reproducción de música
+Elementos usados: html y css
